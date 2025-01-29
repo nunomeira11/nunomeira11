@@ -11,11 +11,8 @@ I thrive in collaborative environments and enjoy working on projects that challe
 Here, you will find a collection of my academic and personal projects that reflect my dedication to continuous learning and improvement.  
 
 ---
-## 🔗 Connect with Me 🔗
-
 ## 🔗 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nuno-meira-53b6a9259/)
-
 
 ---
 ## 🛠️ Technical Skills 🛠️
